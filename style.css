@@ -5,7 +5,7 @@
 }
 
 :root {
-    --primary: #F2C94C;
+    --primary: hsl(192, 69%, 47%);
     --black: #333333;
     --width-break:600px
 }

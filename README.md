@@ -1,2 +1,2 @@
-# banana-translater
- this is translate language to another language
+# Minion Speak
+ This is a translator that translate one language to anther language 

@@ -1,7 +1,12 @@
 const  tranButton = document.querySelector('#tranButton');
 
+
 function textTranslation(){
-    console.log('clicked');
+    const inputText = document.querySelector('#inputText').value;
+     console.log(inputText);
 }
 
+
 tranButton.addEventListener('click',textTranslation);
+
+
